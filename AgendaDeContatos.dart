@@ -18,7 +18,7 @@ void main(List<String> arguments) {
   agenda.adicionarContato(contato3);
   agenda.adicionarContato(contato4);
 
-  agenda.deletarContato(contato1);
+  agenda.deletarContato(contato2);
 
   agenda.mostrarTodosOsContatos();
 
